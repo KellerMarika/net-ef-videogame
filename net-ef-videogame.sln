@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-ef-videogame", "net-ef-videogame\net-ef-videogame.csproj", "{4360BB82-05BD-4EBE-AD12-2D6E12BEEDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4360BB82-05BD-4EBE-AD12-2D6E12BEEDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4360BB82-05BD-4EBE-AD12-2D6E12BEEDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4360BB82-05BD-4EBE-AD12-2D6E12BEEDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4360BB82-05BD-4EBE-AD12-2D6E12BEEDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73BFAB0-132D-448C-844D-DEE262553A2B}
+	EndGlobalSection
+EndGlobal
